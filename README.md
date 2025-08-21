@@ -2,7 +2,7 @@ Please write a function named double_items(numbers: list), which takes a list of
 
 The function should return a new list, which contains all values from the original list doubled. The function should not change the original list.
 
-An example of the function at work:
+An example of the function at work:  
 '''python
 if __name__ == "__main__":  
     numbers = [2, 4, 5, 3, 11, -4]  
