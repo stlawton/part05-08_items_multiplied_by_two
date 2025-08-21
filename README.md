@@ -9,7 +9,7 @@ if __name__ == "__main__":
     numbers_doubled = double_items(numbers)  
     print("original:", numbers)  
     print("doubled:", numbers_doubled)  
-'''
+    
 Sample output
 -----
 original: [2, 4, 5, 3, 11, -4]  
