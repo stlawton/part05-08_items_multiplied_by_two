@@ -4,12 +4,13 @@ The function should return a new list, which contains all values from the origin
 
 An example of the function at work:  
 
+```
 if __name__ == "__main__":  
    numbers = [2, 4, 5, 3, 11, -4]  
    numbers_doubled = double_items(numbers)  
    print("original:", numbers)  
    print("doubled:", numbers_doubled)  
-    
+```
 Sample output
 -----
 original: [2, 4, 5, 3, 11, -4]  
